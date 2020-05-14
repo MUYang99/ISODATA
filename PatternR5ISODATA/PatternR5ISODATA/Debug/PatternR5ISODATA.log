@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  PatternR5ISODATA.cpp
+f:\3业余爱好\编程\patternr5isodata\patternr5isodata\patternr5isodata.cpp(358): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+f:\3业余爱好\编程\patternr5isodata\patternr5isodata\patternr5isodata.cpp(363): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+f:\3业余爱好\编程\patternr5isodata\patternr5isodata\patternr5isodata.cpp(366): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+f:\3业余爱好\编程\patternr5isodata\patternr5isodata\patternr5isodata.cpp(372): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+f:\3业余爱好\编程\patternr5isodata\patternr5isodata\patternr5isodata.cpp(384): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  PatternR5ISODATA.vcxproj -> F:\3业余爱好\编程\PatternR5ISODATA\Debug\PatternR5ISODATA.exe
